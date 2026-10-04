@@ -29,7 +29,7 @@ python F1.py
 
 The current script is set up for Max Verstappen (`VER`) in the 2025 Japanese Grand Prix race.
 
-To customize it, edit these variables in [F1.py](/Users/piotrobiegly/Downloads/F1/F1.py):
+To customize it, edit these variables in [F1.py](./F1.py):
 
 - `year` for the season
 - `race` for the Grand Prix name
